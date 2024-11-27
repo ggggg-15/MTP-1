@@ -22,3 +22,4 @@ then run the stimulus code incase flag are not going
 then play the game, flags should bve generated with csv in assets folder only.
 incase ssl connection is invalid, go to edit-> project settings-> player -> configuration -> allow downloads over http -> always allowed
 
+![My Image](project_settings_ssl_connnection.png)
