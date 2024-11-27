@@ -16,3 +16,9 @@ car sound : https://www.youtube.com/watch?v=efGwUmwv85g&t=138s / can use audiocl
 night + street light : https://www.youtube.com/watch?v=MDwVMaJ4mFc
 misc assests can also bve searched here: https://assetstore.unity.com/top-assets/top-free?aid=1101l866w
 OCCULUS INPUT MAPPING: https://www.youtube.com/watch?v=8PCNNro7Rt0&list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud&index=3 / https://www.youtube.com/watch?v=vGZlTfZIfRo / https://www.youtube.com/watch?v=Kh_94glqO-0 / 
+
+sending flags from unity to amplifier: run pyhton server code
+then run the stimulus code incase flag are not going
+then play the game, flags should bve generated with csv in assets folder only.
+incase ssl connection is invalid, go to edit-> project settings-> player -> configuration -> allow downloads over http -> always allowed
+
